@@ -1,4 +1,4 @@
-# Tomàs Daniel Avila Visintin :computer: :movie_camera: :cinema: :musical_note:
+# Tomàs Daniel Avila Visintin :computer: :movie_camera: :cinema: :musical_note: :book:
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iltommi1995)
 
