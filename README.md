@@ -1,6 +1,7 @@
 # Tomàs Daniel Avila Visintin :computer: :movie_camera: :cinema: :musical_note: :book:
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iltommi1995)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iltommi1995) 
+[![Website](https://img.shields.io/website?down_color=black&style=for-the-badge&up_color=DarkRed&up_message=Schegge%20di%20vetro&url=http%3A%2F%2Fscheggedivetro.org%2F)](http://scheggedivetro.org/)
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/tom%C3%A0s-daniel-avila-visintin-2b5497170/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
