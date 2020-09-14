@@ -1,7 +1,10 @@
-### Hi there 👋
+# Tomàs Daniel Avila Visintin :computer: :movie_camera: :cinema: :musical_note:
 
-<!--
-**iltommi1995/iltommi1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iltommi1995)
+
+<p align='center'>
+   <a href="https://www.linkedin.com/in/tom%C3%A0s-daniel-avila-visintin-2b5497170/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+
 
 Here are some ideas to get you started:
 
