@@ -11,6 +11,25 @@
    <a href="https://letterboxd.com/ilTommi/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/letterboxd.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://www.goodreads.com/user/show/108154736-tom-s-avila" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/goodreads.png?raw=true"></a>&nbsp;&nbsp;
    
+### Languages and tools
+<p align="left">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+
+
+   
+## Github Stats 📈
+
+<img src="https://github-readme-stats.vercel.app/api?username=iltommi1995&&show_icons=true&title_color=10cf53&icon_color=ffffff&text_color=ffffff&bg_color=050505" alt="banner that says Tomàs Daniel Avila Visintin - Frontend developer and content creator"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iltommi1995&theme=buefy&bg_color=050505&title_color=10cf53&text_color=ffffff&layout=compact)
+   
+
+## Music 🎸 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iltommi1995&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=iltommi1995&redirect=true)
 
 
 Here are some ideas to get you started:
