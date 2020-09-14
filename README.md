@@ -32,7 +32,7 @@
 
 <br />
 
-### What i'm doing now
+### What i'm doing now :pushpin:
 
 - 🔭 I’m currently working as a frontend developer for Italfrigo Srl.
 - 🌱 I’m currently learning: Graphql and Express.
@@ -47,7 +47,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=iltommi1995&&show_icons=true&title_color=10cf53&icon_color=ffffff&text_color=ffffff&bg_color=050505" alt="banner that says Tomàs Daniel Avila Visintin - Frontend developer and content creator"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iltommi1995&theme=buefy&bg_color=050505&title_color=10cf53&text_color=ffffff&layout=compact)
 
-### Last Activities
+### Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#392](https://github.com//join-monster/join-monster/issues/392) in [join-monster/join-monster](https://github.com//join-monster/join-monster)
@@ -56,7 +56,13 @@
 
 ---
 
+### Latest youtube videos 📺
 
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCM9VcbN0xkcJERMXiS5RH-Q)
 
 
 
