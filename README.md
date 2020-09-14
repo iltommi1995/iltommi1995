@@ -1,9 +1,17 @@
-# Tomàs Daniel Avila Visintin :computer: :movie_camera: :cinema: :musical_note: :book:
+## Hi! I'm Tomàs Daniel Avila Visintin :computer: :movie_camera: :cinema: :musical_note: :book:
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iltommi1995) 
 [![Website](https://img.shields.io/website?down_color=black&style=for-the-badge&up_color=DarkRed&up_message=Schegge%20di%20vetro&url=http%3A%2F%2Fscheggedivetro.org%2F)](http://scheggedivetro.org/)
 
-<p align='center'>
+<br/>
+
+#### I'm a frontend developer but i keep learning to become full stack dev. I'm also a cinema lover and you can find movie reviews on my youtube channel or on my website.
+
+<br />
+
+### Connect with me
+
+<p align='left'>
    <a href="https://www.linkedin.com/in/tom%C3%A0s-daniel-avila-visintin-2b5497170/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://www.facebook.com/tomas.avila.315/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/facebook.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://www.instagram.com/tomasavila1995/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/instagram.png?raw=true"></a>&nbsp;&nbsp;
@@ -11,6 +19,8 @@
    <a href="https://open.spotify.com/user/1172080907?si=dt2JobNkQkCXAsxBxP9wJg" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/spotify.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://letterboxd.com/ilTommi/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/letterboxd.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://www.goodreads.com/user/show/108154736-tom-s-avila" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/goodreads.png?raw=true"></a>&nbsp;&nbsp;
+
+<br/>
    
 ### Languages and tools
 <p align="left">
