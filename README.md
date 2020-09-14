@@ -25,6 +25,10 @@
 ## Github Stats 📈
 
 <img src="https://github-readme-stats.vercel.app/api?username=iltommi1995&&show_icons=true&title_color=10cf53&icon_color=ffffff&text_color=ffffff&bg_color=050505" alt="banner that says Tomàs Daniel Avila Visintin - Frontend developer and content creator"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iltommi1995&theme=buefy&bg_color=050505&title_color=10cf53&text_color=ffffff&layout=compact)
+
+## Last Activities
+
+<!--START_SECTION:activity-->
    
 
 ## Music 🎸 
