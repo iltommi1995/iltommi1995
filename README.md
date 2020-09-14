@@ -3,8 +3,6 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iltommi1995) 
 [![Website](https://img.shields.io/website?down_color=black&style=for-the-badge&up_color=DarkRed&up_message=Schegge%20di%20vetro&url=http%3A%2F%2Fscheggedivetro.org%2F)](http://scheggedivetro.org/)
 
-<br/>
-
 #### I'm a frontend developer but i keep learning to become full stack dev. I'm also a cinema lover and you can find movie reviews on my youtube channel or on my website.
 
 <br />
@@ -32,6 +30,15 @@
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
 
+<br />
+
+### What i'm doing now
+
+- 🔭 I’m currently working as a frontend developer for Italfrigo Srl.
+- 🌱 I’m currently learning: Graphql and Express.
+- 📫 How to reach me: you can send a mail to tomasdanielavilavisintin@yahoo.it or message me in one of the above social profiles.
+- 🥅 2020 goals: learn backend stuff.
+
    
 ## Github Stats 📈
 
@@ -42,11 +49,11 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#392](https://github.com//join-monster/join-monster/issues/392) in [join-monster/join-monster](https://github.com//join-monster/join-monster)
 <!--END_SECTION:activity-->
+
+---
    
 
-## Music 🎸 
 
-[![Spotify](https://iltommi1995.vercel.app/api/spotify)](https://open.spotify.com/user/1172080907)
 
 
 
