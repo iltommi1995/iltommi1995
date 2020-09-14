@@ -36,7 +36,8 @@
 
 ## Music 🎸 
 
-[![Spotify](https://iltommi1995.vercel.app/api/spotify)](https://open.spotify.com/user/1172080907?si=lhtbvaFwS2Kf36oyd8fnPg)
+[![Spotify](https://iltommi1995.vercel.app/api/spotify)](https://open.spotify.com/user/1172080907)
+
 
 
 Here are some ideas to get you started:
