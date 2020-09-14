@@ -39,6 +39,9 @@
 - 📫 How to reach me: you can send a mail to tomasdanielavilavisintin@yahoo.it or message me in one of the above social profiles.
 - 🥅 2020 goals: learn backend stuff.
 
+
+---
+
    
 ## Github Stats 📈
 
@@ -50,21 +53,10 @@
 1. 🗣 Commented on [#392](https://github.com//join-monster/join-monster/issues/392) in [join-monster/join-monster](https://github.com//join-monster/join-monster)
 <!--END_SECTION:activity-->
 
+
 ---
-   
 
 
 
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
