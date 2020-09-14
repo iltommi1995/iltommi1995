@@ -30,6 +30,8 @@
 ## Last Activities
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#392](https://github.com//join-monster/join-monster/issues/392) in [join-monster/join-monster](https://github.com//join-monster/join-monster)
+<!--END_SECTION:activity-->
    
 
 ## Music 🎸 
