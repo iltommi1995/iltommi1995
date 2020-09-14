@@ -36,7 +36,7 @@
 
 ## Music 🎸 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iltommi1995&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=iltommi1995&redirect=true)
+[![Spotify](https://iltommi1995.vercel.app/api/spotify)](https://open.spotify.com/user/1172080907?si=lhtbvaFwS2Kf36oyd8fnPg)
 
 
 Here are some ideas to get you started:
