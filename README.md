@@ -8,7 +8,7 @@
    <a href="https://www.instagram.com/tomasavila1995/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/instagram.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://www.youtube.com/channel/UCM9VcbN0xkcJERMXiS5RH-Q" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/youtube.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://open.spotify.com/user/1172080907?si=dt2JobNkQkCXAsxBxP9wJg" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/spotify.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://letterboxd.com/ilTommi/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/letterbxd.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://letterboxd.com/ilTommi/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/letterboxd.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://www.goodreads.com/user/show/108154736-tom-s-avila" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/goodreads.png?raw=true"></a>&nbsp;&nbsp;
    
 
