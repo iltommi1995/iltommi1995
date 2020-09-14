@@ -50,7 +50,7 @@
 ### Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#392](https://github.com//join-monster/join-monster/issues/392) in [join-monster/join-monster](https://github.com//join-monster/join-monster)
+1. 🎉 Merged PR [#1](https://github.com//iltommi1995/tomas-avila-portfolio/pull/1) in [iltommi1995/tomas-avila-portfolio](https://github.com//iltommi1995/tomas-avila-portfolio)
 <!--END_SECTION:activity-->
 
 
