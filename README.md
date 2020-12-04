@@ -59,11 +59,11 @@
 ### Latest youtube videos 📺
 
 <!-- YOUTUBE:START -->
+- [Analisi e spiegazione MANK, di David Fincher | IL FILM DELL'ANNO](https://www.youtube.com/watch?v=pzcoSQVUbbY)
 - [His House: Analisi e SPIEGAZIONE | L'horror dell'anno?](https://www.youtube.com/watch?v=S8euiW3lLo4)
 - [Sto pensando di finirla qui | Analisi e SPIEGAZIONE](https://www.youtube.com/watch?v=SwxMwrugkWQ)
 - [Analisi e spiegazione Tenet | Il peggior film di Nolan? (spoiler)](https://www.youtube.com/watch?v=m4XiHyeAXxg)
 - [Bacurau Analisi e Spiegazione || L'horror brasiliano](https://www.youtube.com/watch?v=4ncp13USr-8)
-- [Ema, di Pablo Larraín (2019): analisi e SPIEGAZIONE](https://www.youtube.com/watch?v=xMg98noecHA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCM9VcbN0xkcJERMXiS5RH-Q)
