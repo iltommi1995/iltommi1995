@@ -59,11 +59,11 @@
 ### Latest youtube videos 📺
 
 <!-- YOUTUBE:START -->
+- [Raised by Wolves || SPIEGAZIONE e analisi serie tv](https://www.youtube.com/watch?v=0YZgLDlzRtc)
 - [Analisi e spiegazione MANK, di David Fincher | IL FILM DELL'ANNO](https://www.youtube.com/watch?v=pzcoSQVUbbY)
 - [His House: Analisi e SPIEGAZIONE | L'horror dell'anno?](https://www.youtube.com/watch?v=S8euiW3lLo4)
 - [Sto pensando di finirla qui | Analisi e SPIEGAZIONE](https://www.youtube.com/watch?v=SwxMwrugkWQ)
 - [Analisi e spiegazione Tenet | Il peggior film di Nolan? (spoiler)](https://www.youtube.com/watch?v=m4XiHyeAXxg)
-- [Bacurau Analisi e Spiegazione || L'horror brasiliano](https://www.youtube.com/watch?v=4ncp13USr-8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCM9VcbN0xkcJERMXiS5RH-Q)
