@@ -59,7 +59,7 @@
 ### Latest youtube videos 📺
 
 <!-- YOUTUBE:START -->
-- [Raised by Wolves || SPIEGAZIONE e analisi serie tv](https://www.youtube.com/watch?v=0YZgLDlzRtc)
+- [Raised by Wolves - Una nuova umanità || SPIEGAZIONE e analisi serie tv](https://www.youtube.com/watch?v=0YZgLDlzRtc)
 - [Analisi e spiegazione MANK, di David Fincher | IL FILM DELL'ANNO](https://www.youtube.com/watch?v=pzcoSQVUbbY)
 - [His House: Analisi e SPIEGAZIONE | L'horror dell'anno?](https://www.youtube.com/watch?v=S8euiW3lLo4)
 - [Sto pensando di finirla qui | Analisi e SPIEGAZIONE](https://www.youtube.com/watch?v=SwxMwrugkWQ)
