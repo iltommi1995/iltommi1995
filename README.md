@@ -59,11 +59,11 @@
 ### Latest youtube videos 📺
 
 <!-- YOUTUBE:START -->
+- [Monografia Chloé Zhao (prima parte) | Chi è la regista candidata all'oscar?](https://www.youtube.com/watch?v=JO9Ma3Kk3Ec)
 - [La tigre bianca - Recensione film Netflix || Il nuovo Parasite?](https://www.youtube.com/watch?v=oFJfq5e7TKo)
 - [Raised by Wolves - Una nuova umanità || SPIEGAZIONE e analisi serie tv](https://www.youtube.com/watch?v=0YZgLDlzRtc)
 - [Analisi e spiegazione MANK, di David Fincher | IL FILM DELL'ANNO](https://www.youtube.com/watch?v=pzcoSQVUbbY)
 - [His House: Analisi e SPIEGAZIONE | L'horror dell'anno?](https://www.youtube.com/watch?v=S8euiW3lLo4)
-- [Sto pensando di finirla qui | Analisi e SPIEGAZIONE](https://www.youtube.com/watch?v=SwxMwrugkWQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCM9VcbN0xkcJERMXiS5RH-Q)
