@@ -50,7 +50,7 @@
 ### Last Activities :page_with_curl:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/iltommi1995/tomas-avila-portfolio/pull/3) in [iltommi1995/tomas-avila-portfolio](https://github.com/iltommi1995/tomas-avila-portfolio)
+1. 🗣 Commented on [#244](https://github.com/jlobos/instagram-web-api/issues/244) in [jlobos/instagram-web-api](https://github.com/jlobos/instagram-web-api)
 <!--END_SECTION:activity-->
 
 
