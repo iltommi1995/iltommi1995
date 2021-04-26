@@ -59,8 +59,8 @@
 ### Latest youtube videos 📺
 
 <!-- YOUTUBE:START -->
-- [Recensione e Analisi Nomadland di Chloé Zhao | Vincerà l'oscar?](https://www.youtube.com/watch?v=-AIIOOMeqyY)
-- [Monografia Chloé Zhao (prima parte) | Chi è la regista candidata all'oscar?](https://www.youtube.com/watch?v=JO9Ma3Kk3Ec)
+- [Recensione e Analisi Nomadland di Chloé Zhao | Il film che ha vinto l'oscar 2021](https://www.youtube.com/watch?v=-AIIOOMeqyY)
+- [Monografia Chloé Zhao (prima parte) | Chi è la regista che ha vinto l'oscar 2021?](https://www.youtube.com/watch?v=JO9Ma3Kk3Ec)
 - [La tigre bianca - Recensione film Netflix || Il nuovo Parasite?](https://www.youtube.com/watch?v=oFJfq5e7TKo)
 - [Raised by Wolves - Una nuova umanità || SPIEGAZIONE e analisi serie tv](https://www.youtube.com/watch?v=0YZgLDlzRtc)
 - [Analisi e spiegazione MANK, di David Fincher | IL FILM DELL'ANNO](https://www.youtube.com/watch?v=pzcoSQVUbbY)
