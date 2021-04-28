@@ -59,11 +59,11 @@
 ### Latest youtube videos 📺
 
 <!-- YOUTUBE:START -->
+- [All Them series's split diopter shots (spoiler images)](https://www.youtube.com/watch?v=JLA8vMl2pj4)
 - [Recensione e Analisi Nomadland di Chloé Zhao | Il film che ha vinto l'oscar 2021](https://www.youtube.com/watch?v=-AIIOOMeqyY)
 - [Monografia Chloé Zhao (prima parte) | Chi è la regista che ha vinto l'oscar 2021?](https://www.youtube.com/watch?v=JO9Ma3Kk3Ec)
 - [La tigre bianca - Recensione film Netflix || Il nuovo Parasite?](https://www.youtube.com/watch?v=oFJfq5e7TKo)
 - [Raised by Wolves - Una nuova umanità || SPIEGAZIONE e analisi serie tv](https://www.youtube.com/watch?v=0YZgLDlzRtc)
-- [Analisi e spiegazione MANK, di David Fincher | IL FILM DELL'ANNO](https://www.youtube.com/watch?v=pzcoSQVUbbY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCM9VcbN0xkcJERMXiS5RH-Q)
