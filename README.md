@@ -3,7 +3,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iltommi1995) 
 [![Website](https://img.shields.io/website?down_color=black&style=for-the-badge&up_color=DarkRed&up_message=Schegge%20di%20vetro&url=http%3A%2F%2Fscheggedivetro.org%2F)](http://scheggedivetro.org/)
 
-#### I'm a frontend developer but i keep learning to become full stack dev. I'm also a cinema lover and you can find movie reviews on my youtube channel or on my website. You can check my projects visiting my [portfolio](https://iltommi1995.github.io/tomas-avila-portfolio). The [portfolio](https://iltommi1995.github.io/tomas-avila-portfolio) itself is a personal project that i'm developing now.
+#### I'm a full stack developer working at Nextre Srl. I'm also a cinema lover and you can find movie reviews on my youtube channel or on my website. You can check my projects visiting my [portfolio](https://iltommi1995.github.io/tomas-avila-portfolio). The [portfolio](https://iltommi1995.github.io/tomas-avila-portfolio) itself is a personal project that i'm developing now.
 
 <br />
 
@@ -34,10 +34,10 @@
 
 ### What i'm doing now :pushpin:
 
-- 🔭 I’m currently working as a frontend developer for Italfrigo Srl.
-- 🌱 I’m currently learning: Graphql and Express.
+- 🔭 I’m currently working as a full stack developer at Nextre Srl.
+- 🌱 I’m currently learning: Solidity, Blockchain stuff.
 - 📫 How to reach me: you can send a mail to tomasdanielavilavisintin@yahoo.it or message me in one of the above social profiles.
-- 🥅 2020 goals: learn backend stuff.
+- 🥅 2021 goals: learn blockchain.
 
 
 ---
