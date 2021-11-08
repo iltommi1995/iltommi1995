@@ -61,9 +61,9 @@
 <!-- YOUTUBE:START -->
 - [Analisi Malignant di James Wan | Finalmente un buon horror](https://www.youtube.com/watch?v=Cxn4sf6nWY4)
 - [La notte del giudizio per sempre | Analisi: Il migliore della saga?](https://www.youtube.com/watch?v=aarYbVEjvsE)
-- [All Them series's split diopter shots (spoiler images)](https://www.youtube.com/watch?v=JLA8vMl2pj4)
-- [Recensione e Analisi Nomadland di Chloé Zhao | Il film che ha vinto l'oscar 2021](https://www.youtube.com/watch?v=-AIIOOMeqyY)
-- [Monografia Chloé Zhao (prima parte) | Chi è la regista che ha vinto l'oscar 2021?](https://www.youtube.com/watch?v=JO9Ma3Kk3Ec)
+- [All Them series&#39;s split diopter shots &lpar;spoiler images&rpar;](https://www.youtube.com/watch?v=JLA8vMl2pj4)
+- [Recensione e Analisi Nomadland di Chloé Zhao | Il film che ha vinto l&#39;oscar 2021](https://www.youtube.com/watch?v=-AIIOOMeqyY)
+- [Monografia Chloé Zhao &lpar;prima parte&rpar; | Chi è la regista che ha vinto l&#39;oscar 2021?](https://www.youtube.com/watch?v=JO9Ma3Kk3Ec)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCM9VcbN0xkcJERMXiS5RH-Q)
