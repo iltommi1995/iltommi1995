@@ -59,11 +59,11 @@
 ### Latest youtube videos 📺
 
 <!-- YOUTUBE:START -->
+- [Top e flop 10 del 2021 | I migliori e i peggiori film dell&#39;anno](https://www.youtube.com/watch?v=UvAx2bZuFhY)
 - [Recensione Matrix Resurrections | Come distruggere una saga cult &lpar;contiene spoiler&rpar;](https://www.youtube.com/watch?v=P48tMg3DtA4)
 - [Analisi Malignant di James Wan | Finalmente un buon horror](https://www.youtube.com/watch?v=Cxn4sf6nWY4)
 - [La notte del giudizio per sempre | Analisi: Il migliore della saga?](https://www.youtube.com/watch?v=aarYbVEjvsE)
 - [All Them series&#39;s split diopter shots &lpar;spoiler images&rpar;](https://www.youtube.com/watch?v=JLA8vMl2pj4)
-- [Recensione e Analisi Nomadland di Chloé Zhao | Il film che ha vinto l&#39;oscar 2021](https://www.youtube.com/watch?v=-AIIOOMeqyY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCM9VcbN0xkcJERMXiS5RH-Q)
