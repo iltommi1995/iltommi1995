@@ -69,6 +69,11 @@ I'm a cinema lover. I publish film reviews and analyses on my YouTube channel an
 #### Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Recensione Odissea di Nolan | Il capolavoro di Christopher Nolan](https://www.youtube.com/watch?v=NfWBEtwLnhM)
+- [I migliori e i peggiori film del 2024](https://www.youtube.com/watch?v=_3vRhhwh8Ds)
+- [Recensione Nosferatu &lpar;2024&rpar; di Robert Eggers | Una grande delusione](https://www.youtube.com/watch?v=Q5ehbdW3Jq0)
+- [Analisi The Substance di Coralie Fargeat &lpar;2024&rpar; | Il miglior horror degli ultimi anni?](https://www.youtube.com/watch?v=ejdAlbA5Hcg)
+- [Analisi Joker: Folie à Deux | Meglio del primo Joker ma non è stato capito](https://www.youtube.com/watch?v=2D4MTZngEPM)
 <!-- YOUTUBE:END -->
 
 [More videos...](https://www.youtube.com/channel/UCM9VcbN0xkcJERMXiS5RH-Q)
