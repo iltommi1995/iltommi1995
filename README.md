@@ -1,72 +1,74 @@
-## Hi! I'm Tomàs Daniel Avila Visintin :computer: :movie_camera: :cinema: :musical_note: :book:
+## Hi, I'm Tomàs Daniel Avila Visintin
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iltommi1995) 
-[![Website](https://img.shields.io/website?down_color=black&style=for-the-badge&up_color=DarkRed&up_message=Schegge%20di%20vetro&url=http%3A%2F%2Fscheggedivetro.org%2F)](http://scheggedivetro.org/)
+**Senior Full Stack Developer** based in Milan, Italy. I build and run production systems end to end, from backend services to frontend and deployment.
 
-#### I'm a full stack developer working at Nextre Srl. I'm also a cinema lover and you can find movie reviews on my youtube channel or on my website. You can check my projects visiting my [portfolio](https://iltommi1995.github.io/tomas-avila-portfolio). The [portfolio](https://iltommi1995.github.io/tomas-avila-portfolio) itself is a personal project that i'm developing now.
+I currently work at **altermAInd**, an AI-first company, on banking products built on microservices: a home banking platform and software for non-performing loan (NPL) management. Before that I spent four years at Nextre Engineering, working for clients in banking, telco, energy and public administration, on everything from legacy monoliths to microservices.
+
+AI agents (Claude Code, OpenAI Codex) are part of my daily workflow. Combined with a solid understanding of how the whole application fits together, they let me deliver faster and work effectively in languages and stacks beyond my core ones.
+
+<br />
+
+### Tech stack
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+**Data, cloud and DevOps**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+
+**AI-assisted development**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-111111?style=for-the-badge)
+
+<br />
+
+### What I'm doing now
+
+- Working as a senior full stack developer at altermAInd, in the banking domain.
+- Building with Java (Quarkus, Spring Boot), Kafka, gRPC and React on Azure and Kubernetes.
+- Using AI agents every day across the development cycle.
 
 <br />
 
 ### Connect with me
 
-<p align='left'>
-   <a href="https://www.linkedin.com/in/tom%C3%A0s-daniel-avila-visintin-2b5497170/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/tomas.avila.315/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/facebook.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.instagram.com/tomasavila1995/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/instagram.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.youtube.com/channel/UCM9VcbN0xkcJERMXiS5RH-Q" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/youtube.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://open.spotify.com/user/1172080907?si=dt2JobNkQkCXAsxBxP9wJg" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/spotify.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://letterboxd.com/ilTommi/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/letterboxd.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.goodreads.com/user/show/108154736-tom-s-avila" target="_blank"><img height="30" src="https://raw.githubusercontent.com/iltommi1995/iltommi1995/master/img/goodreads.png?raw=true"></a>&nbsp;&nbsp;
-
-<br/>
-   
-### Languages and tools
-<p align="left">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/tom%C3%A0s-daniel-avila-visintin-2b5497170/)
+[![Email](https://img.shields.io/badge/Email-444444?style=for-the-badge)](mailto:tomasdanielavilavisintin@yahoo.it)
 
 <br />
 
-### What i'm doing now :pushpin:
-
-- 🔭 I’m currently working as a full stack developer at Nextre Srl.
-- 🌱 I’m currently learning: Solidity, Blockchain stuff.
-- 📫 How to reach me: you can send a mail to tomasdanielavilavisintin@yahoo.it or message me in one of the above social profiles.
-- 🥅 2021 goals: learn blockchain.
-
-
 ---
 
-   
-### Github Stats 📈
+### Beyond code: cinema
 
-<img src="https://github-readme-stats.vercel.app/api?username=iltommi1995&&show_icons=true&title_color=10cf53&icon_color=ffffff&text_color=ffffff&bg_color=050505" alt="banner that says Tomàs Daniel Avila Visintin - Frontend developer and content creator"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iltommi1995&theme=buefy&bg_color=050505&title_color=10cf53&text_color=ffffff&layout=compact)
+I'm a cinema lover. I publish film reviews and analyses on my YouTube channel and keep track of what I watch on Letterboxd.
 
-### Last Activities :page_with_curl:
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCM9VcbN0xkcJERMXiS5RH-Q)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=white)](https://letterboxd.com/ilTommi/)
+[![Schegge di vetro](https://img.shields.io/badge/Website-Schegge_di_vetro-8B0000?style=for-the-badge)](http://scheggedivetro.org/)
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#244](https://github.com/jlobos/instagram-web-api/issues/244) in [jlobos/instagram-web-api](https://github.com/jlobos/instagram-web-api)
-<!--END_SECTION:activity-->
-
-
----
-
-### Latest youtube videos 📺
+#### Latest YouTube videos
 
 <!-- YOUTUBE:START -->
-- [Top e flop 10 del 2021 | I migliori e i peggiori film dell&#39;anno](https://www.youtube.com/watch?v=UvAx2bZuFhY)
-- [Recensione Matrix Resurrections | Come distruggere una saga cult &lpar;contiene spoiler&rpar;](https://www.youtube.com/watch?v=P48tMg3DtA4)
-- [Analisi Malignant di James Wan | Finalmente un buon horror](https://www.youtube.com/watch?v=Cxn4sf6nWY4)
-- [La notte del giudizio per sempre | Analisi: Il migliore della saga?](https://www.youtube.com/watch?v=aarYbVEjvsE)
-- [All Them series&#39;s split diopter shots &lpar;spoiler images&rpar;](https://www.youtube.com/watch?v=JLA8vMl2pj4)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCM9VcbN0xkcJERMXiS5RH-Q)
-
-
-
+[More videos...](https://www.youtube.com/channel/UCM9VcbN0xkcJERMXiS5RH-Q)
